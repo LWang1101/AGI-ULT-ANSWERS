@@ -1,3 +1,4 @@
-## This is my note repo. For saving browering time, I did not set any folder, this is also my work mindset to put efficiency first.
+## useful tech documents about nearly all of tech stacks
 
-if you use this repo, you can solve nearly all of your problems with project flowsheet, world model, LLM, FL, meta learning, foundation model fusion, diffusion model.
+
+if you use this repo and you focus on AI field, you can solve all of your problems with project flowsheet, world model, LLM, FL, meta learning, foundation model fusion, diffusion model.
